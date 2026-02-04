@@ -26,16 +26,6 @@ Recent Data Science and ML graduate focused on transforming large datasets into 
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarayruiz&show_icons=true&theme=visual_studio_code" alt="Saray's GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarayruiz&layout=compact&theme=visual_studio_code" alt="Most used languages" />
-</p>
-
----
-
 ### 📫 Let's Connect:
 
 * **LinkedIn:** [linkedin.com/in/saray-ruiz-ds](http://www.linkedin.com/in/saray-ruiz-ds)
