@@ -14,13 +14,14 @@ Recién graduada en Ciencia de Datos y ML, enfocada en transformar grandes volú
 * **Herramientas & Despliegue:** Git, Streamlit, Flask/FastAPI.
 
 ---
-<!--
+
 ### 🚀 Proyectos Destacados
 
-1.  **[Nombre del Proyecto 1](link al repo):** Breve descripción (ej. Modelo de detección de fraude con 95% de precisión).
+1.  **[Proyecto Final Bootcamp](https://github.com/4GeeksAcademy/sp-ml-20-final-project-g3):** Modelo de aprendizaje para predecir si una acción subirá al menos un 2%  dentro de 10 días  en el S&P 500.
+<!--
 2.  **[Nombre del Proyecto 2](link al repo):** Análisis exploratorio y segmentación de clientes usando K-means.
 3.  **[Nombre del Proyecto 3](link al repo):** Sistema de recomendación de películas basado en contenido.
-
+-->
 ---
 
 ### 📫 Conectemos:
@@ -29,7 +30,7 @@ Recién graduada en Ciencia de Datos y ML, enfocada en transformar grandes volú
 * **Email:** sarayruizr@gmail.com
 
 ---
-
+<!--
 ### ⚡ Datos curiosos
 * Me encanta...
 * Siempre busco optimizar el código para que sea más eficiente.
