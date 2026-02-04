@@ -11,7 +11,7 @@ Recién graduada en Ciencia de Datos y ML, enfocada en transformar grandes volú
 * **Lenguajes:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL)
 * **Machine Learning:** Modelos de Regresión/Clasificación, Clustering, Deep Learning (TensorFlow/PyTorch).
 * **Visualización:** Matplotlib, Seaborn.
-* **Herramientas & Despliegue:** Git, Streamlit, Flask/FastAPI.
+* **Herramientas & Despliegue:** Git, Streamlit, Flask.
 
 ---
 
