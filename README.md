@@ -12,9 +12,6 @@ Recién graduada en Ciencia de Datos y ML, enfocada en transformar grandes volú
 
 ---
 
-
----
-
 ### 🛠️ Tech Stack
 
 * **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL).
