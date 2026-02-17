@@ -14,7 +14,7 @@ Recent Data Science and ML graduate focused on transforming large datasets into 
 * **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL).
 * **Machine Learning:** Regression/Classification, Clustering, Deep Learning (TensorFlow/PyTorch).
 * **Visualization:** Matplotlib, Seaborn.
-* **Tools & Deployment:** Git, Streamlit, Flask.
+* **Tools & Deployment:** Git, Streamlit.
 
 ### 🚀 Featured Projects
 * **[S&P 500 Stock Predictor](https://github.com/4GeeksAcademy/sp-ml-20-final-project-g3):** ML model predicting if a stock will rise ≥2% within 10 days.
@@ -30,7 +30,7 @@ Graduada en Ciencia de Datos y ML, enfocada en transformar grandes volúmenes de
 * **Lenguajes:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL).
 * **Machine Learning:** Regresión/Clasificación, Clustering, Deep Learning.
 * **Visualización:** Matplotlib, Seaborn.
-* **Herramientas:** Git, Streamlit, Flask.
+* **Herramientas:** Git, Streamlit.
 
 ### 🚀 Proyecto Destacado
 * **[Predictor S&P 500](https://github.com/4GeeksAcademy/sp-ml-20-final-project-g3):** Modelo para predecir subidas del 2% en acciones en un plazo de 10 días.
